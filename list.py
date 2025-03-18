@@ -11,7 +11,15 @@ shoppping_list=[
     "eggs"
 ]
 # ❓ Q1: How would you remove the last item from fruits = ["apple", "banana"]?
-
+fruits = ["apple", "banana"]
+fruits.pop()
+print(fruits)
+fruits.remove("banana")
+print(fruits)
+# Reverse this list using a method: nums = [1, 2, 3]
+nums=[1,2,3]
+nums.reverse()
+print(nums)
 for item in shoppping_list:
     print(item)
 #can be indexed

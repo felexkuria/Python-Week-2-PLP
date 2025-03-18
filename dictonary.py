@@ -49,3 +49,10 @@ for key in calendar.keys():
 
 for value in calendar.values():
    print(value)
+
+# Reinforcement After Dictionaries:
+# ❓ Q2: How do you check if "age" is a key in student?
+
+# Add a key "grade" with value "A" to student = {"name": "Bob"}
+student = {"name": "Bob"}
+student["grade"]="A"

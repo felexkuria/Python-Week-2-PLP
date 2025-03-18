@@ -28,3 +28,7 @@ print(coordinates)
 # * can be used as replacements for function closures
 # * can be used as replacements for function attributes
 # * can be used as replacements for function annotations
+my_set = {1, 2, 2, 3}
+# Output: {1, 2, 3}
+print(my_set)
+
