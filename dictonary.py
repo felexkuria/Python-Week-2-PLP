@@ -9,4 +9,10 @@ calendar={
     "Sunday": {"14:00": "Family movie night", "21:00": "Dinner with family"}
 
 }
-print(calendar["Monday"]["12:00"])
+# print(calendar["Monday"]["12:00"])
+
+students_={
+    2541:"Admin Number"
+    
+
+}
